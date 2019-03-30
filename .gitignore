@@ -1,2 +1,6 @@
 *.class
 *.log
+*target
+*stackoverflow.csv
+*.DS_Store
+.idea/
